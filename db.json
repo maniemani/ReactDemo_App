@@ -1,24 +1,28 @@
 {
-  "comments": [
+  "products": [
     {
       "id": 1,
-      "author": "John Doe",
-      "text": "This is a great product!"
+      "ProductName": "Product 1",
+      "Quantity": 10,
+      "Price": 100
     },
     {
       "id": 2,
-      "author": "Jane Smith",
-      "text": "I had a bad experience with this product."
+      "ProductName": "Product 2",
+      "Quantity": 20,
+      "Price": 200
     },
     {
       "id": 3,
-      "author": "Alice Johnson",
-      "text": "I love it! Highly recommend."
+      "ProductName": "Product 3",
+      "Quantity": 30,
+      "Price": 300
     },
     {
-      "author": "ravi",
-      "text": "well done",
-      "id": "qHtwKpd2qONZUOX1CTOdh"
+      "ProductName": "wall",
+      "Quantity": 2,
+      "Price": 100,
+      "id": 4
     }
   ]
 }
